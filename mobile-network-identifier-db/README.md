@@ -18,7 +18,7 @@ Here are the previews of the application
 
 How the app looks like on start. The user needs to update the database in order to add the prefixes and their equivalent network. He can also read through the instructions on how the application works.
 
-<img src="https://github.com/zarexalvindaria/android-projects/blob/main/mobile-network-identifier-db/img/preview-1.png?raw=true"  >
+<img src="https://github.com/zarexalvindaria/android-projects/blob/main/mobile-network-identifier-db/img/preview-1.png?raw=true" width=400px />
 
 
 
@@ -30,4 +30,4 @@ How the app looks like on start. The user needs to update the database in order 
 
 How the app looks like after the default prefixes are added from the Update Database module. The user needs to input the prefix of the number to get its mobile network.
 
-<img src="https://github.com/zarexalvindaria/android-projects/blob/main/mobile-network-identifier-db/img/preview-2.png?raw=true" >
+<img src="https://github.com/zarexalvindaria/android-projects/blob/main/mobile-network-identifier-db/img/preview-2.png?raw=true" width=400px />
