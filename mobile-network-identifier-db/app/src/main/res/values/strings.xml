@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mobile Network Identifier</string>
+    <string name="notAssigned">Not Assigned</string>
+    <string name="mobNumID">Mobile Number ID</string>
+    <string name="mobNumberPrefix">Mobile Number Prefix</string>
+    <string name="mobNetwork">Mobile Network</string>
+    <string name="addBtn">Add</string>
+    <string name="findBtn">Find</string>
+    <string name="deleteBtn">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="DetermineNetwork">Determine Network</string>
+    <string name="clearFields">clear fields</string>
+    <string name="savedNumbers">Saved Prefixes List</string>
+    <string name="btnPlus">+63</string>
+    <string name="clearDatabase">! Clear Database</string>
+    <string name="addDefaultPrefixes">Add Default Prefixes</string>
+    <string name="Instructions">Instructions</string>
+    <string name="homePage">Back to Main Page</string>
+</resources>
